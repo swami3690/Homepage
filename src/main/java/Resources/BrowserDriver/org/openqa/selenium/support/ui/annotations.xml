@@ -1,0 +1,5 @@
+<root>
+    <item name='org.openqa.selenium.support.ui.FluentWait org.openqa.selenium.support.ui.FluentWait&lt;T&gt; pollingEvery(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
